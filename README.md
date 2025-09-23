@@ -1,17 +1,12 @@
- <img align="right" width=300px alt="Unicorn" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3h5dnNieXc0c3RsNGVibW1ueXZwYnJjaGVyOGg3bHExY3VwNnRuYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LSKHkpRJySs5W81D7B/giphy.gif" />
 
 
 <h1 aling="center"> Hi, I'm Lessli Alvarez <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="35"></h1>
+ <img align="right" width=300px alt="Unicorn" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3h5dnNieXc0c3RsNGVibW1ueXZwYnJjaGVyOGg3bHExY3VwNnRuYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LSKHkpRJySs5W81D7B/giphy.gif" />
 
-<p align="center">
- <h3 align="center">✨Student in computer systems engineering✨.</h3>
-   
-    
+ <h3 align="center">✨Student in computer systems engineering✨</h3>
 
-<!-- MAIN PHRASE SECTION -->
-<span align="center">
   <span>
-    <h6 align="left">"<em>Si lo puedes imaginar, lo puedes programar</em>"
+    <h6 align="left">"<em>You just have to be 1% better every day!</em>"
     </h6>
 </span>
   <hr>
@@ -29,8 +24,8 @@
 
   💬 Ask me about for any help
 </div>
-
-<div align="Center">
+<br>
+<div align="left">
 <h1>Skills</h1>
 </div>
 
@@ -41,7 +36,6 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
@@ -86,6 +80,20 @@
 
 <br>
 
+<div align="center">
+<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=elanza-48&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Elanza-48)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=elanza-48&theme=material-palenight)](https://github.com/Elanza-48)
+</div>
+
+
+  <p align="center">
+  <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+
+<br>
+
 <div align="Center">
 <h3>Connect with me:</h3>
 </div>
@@ -101,12 +109,4 @@
       alt="_._.adam._" height="30" width="40" /></a>
 
 </p>
-
-<br>
-
-
-  <p align="center">
-  <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
-
 
