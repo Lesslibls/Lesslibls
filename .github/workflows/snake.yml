@@ -20,6 +20,7 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake.gif
+            gif_duration: 3000
       - name: commit files
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
