@@ -64,7 +64,6 @@
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)&nbsp;
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)&nbsp;
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
 ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
@@ -77,8 +76,16 @@
 <h1>Projects</h1>
 </div>
 <div align="Center">
-
+<img align="center" width=100px alt="Unicorn" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWNjcnI4eDRjZHFneXhiMDZzcnVyYWxzb2VyeTBtYjVyOGhraDJrYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/73xbEoy5emSNiarCbv/giphy.gif" />
+<a href="https://github.com/Lesslibls/Biblioteca_Algoritmos_y_estructura_de_datos">Sistema de Gestión para Biblioteca</a>
 </div>
+
+<br>
+<div align="Center">
+<img align="center" width=200px alt="Unicorn" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzY5Y21xNjU3NjRwc24wbHJla3NjbWJxNWk3b3kxYWZ3NTJicGI5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pPmEbH9vHMHlEKOHu5/giphy.gif" />
+<a href="https://github.com/Lesslibls/Administracion_Rancho_Ganadero">Rancho Ganadero de Engorda</a>
+</div>
+
 
 <br>
 
