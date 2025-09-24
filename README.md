@@ -14,15 +14,15 @@
 <div align="left">
   
  <h3 align="left">💫About Me :</h3>
-🔭 I’m currently working on my github page : https://codewhiteweb.cf
-  
-🌱 I’m currently learning : Node.js
+ 
+☁️💻I'm currently learning cloud computing.
 
-  👯 I’m looking to collaborate on my webpage
+🎨I'm interested in front-end and user experience (UX/UI).
 
-  🤔 I’m Not looking for help
+📖I have experience in ISO/IEEE 29148 documentation 🖊️ (Systems and Software Engineering — Lifecycle Processes — Requirements Engineering).
 
-  💬 Ask me about for any help
+✏️I'm an instructor in my spare time.🕛
+
 </div>
 <br>
 <div align="left">
@@ -43,6 +43,7 @@
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 
 <h3> 🗃 Databases </h3>
@@ -50,6 +51,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 
 
@@ -83,8 +85,8 @@
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=elanza-48&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Elanza-48)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=elanza-48&theme=material-palenight)](https://github.com/Elanza-48)
+[![](https://github-readme-stats.vercel.app/api?username=Lesslibls&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Lesslibls)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Lesslibls&theme=material-palenight)](https://github.com/Lesslibls)
 </div>
 
 
@@ -97,16 +99,17 @@
 <div align="Center">
 <h3>Connect with me:</h3>
 </div>
-<p align="center">
-  <a href="https://www.linkedin.com/in/adam-pithewan/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="adam pithewan" height="30" width="40" /></a>
-  <a href="https://fb.com/adam pithen wala" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="adam pithen wala" height="30" width="40" /></a>
-  <a href="https://instagram.com/_._.adam._" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="_._.adam._" height="30" width="40" /></a>
 
-</p>
+<div align="Center">
+
+  <a href="https://www.linkedin.com/in/lessli-brenda-alvarez-389b32211" target="blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+  <a href="https://www.facebook.com/share/1C5c9BUTEW/" target="blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://www.instagram.com/hidden0011_0111?igsh=MTFpY202bzB4Y3l3NA==" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram"/>
+  </a>
+</div>
 
