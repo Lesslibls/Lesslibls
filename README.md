@@ -90,7 +90,9 @@
 </div>
 
 
-<img src="https://github.com/Lesslibls/Lesslibls/raw/output/github-contribution-grid-snake.svg" alt="snake" />
+<p align="center">
+  <img src="https://github.com/Lesslibls/Lesslibls/raw/main/dist/github-contribution-grid-snake.svg" alt="snake" />
+</p>
 
 <br>
 
