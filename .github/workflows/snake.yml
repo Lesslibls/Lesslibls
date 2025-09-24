@@ -11,13 +11,11 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - uses: Platane/snk@v3
+        id: snake-gif
         with:
           github_user_name: Lesslibls
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake.gif
-    # 🐍 Color para la serpiente
-        color_snake: "#800080" 
-    # ⚫ Color para los puntos (los días de contribución)
-        color_dots: "#ff1493"
-        
+          color_snake: "#800080" # Morado
+          color_dots: "#ff1493" # Rosa
