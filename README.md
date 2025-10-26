@@ -19,11 +19,11 @@
 
 🎨I'm interested in front-end and user experience (UX/UI).
 
-📖I have experience in ISO/IEEE 29148 documentation 🖊️ (Systems and Software Engineering — Lifecycle Processes — Requirements Engineering).
-
 ✏️I'm an instructor in my spare time.🕛
 
 </div>
+<br>
+<br>
 <br>
 <div align="left">
 <h1>Skills</h1>
@@ -77,13 +77,13 @@
 </div>
 <div align="Center">
 <img align="center" width=100px alt="Unicorn" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWNjcnI4eDRjZHFneXhiMDZzcnVyYWxzb2VyeTBtYjVyOGhraDJrYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/73xbEoy5emSNiarCbv/giphy.gif" />
-<a href="https://github.com/Lesslibls/Biblioteca_Algoritmos_y_estructura_de_datos">Sistema de Gestión para Biblioteca</a>
+<a href="https://github.com/Lesslibls/Biblioteca_Algoritmos_y_estructura_de_datos">Library Management System</a>
 </div>
 
 <br>
 <div align="Center">
 <img align="center" width=200px alt="Unicorn" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzY5Y21xNjU3NjRwc24wbHJla3NjbWJxNWk3b3kxYWZ3NTJicGI5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pPmEbH9vHMHlEKOHu5/giphy.gif" />
-<a href="https://github.com/Lesslibls/Administracion_Rancho_Ganadero">Rancho Ganadero de Engorda</a>
+<a href="https://github.com/Lesslibls/Administracion_Rancho_Ganadero">Cattle Feedlot</a>
 </div>
 
 
